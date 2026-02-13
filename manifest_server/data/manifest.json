@@ -90,7 +90,40 @@
                 "lang": "grc",
                 "parent": "1",
                 "children": [
-                    {}
+                    {
+                        "id": "Acta Barnabae - Cambridge Add 4489",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Cambridge Add 4489",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Cambridge_Add_4489.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "Acta Barnabae - Editio Recensio",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Editio Recensio (Bonnet)",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Bonnet.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    }
                 ]
             }
         ]
@@ -101,24 +134,6 @@
         "title": "ENLAC-data",
         "lang": "grc",
         "parent": null,
-        "children": [
-            {
-                "id": "Acta Barnabae - Cambridge Add 4489",
-                "type": "Resource",
-                "title": "Le Martyre de Philippe - Athous Iviron 450",
-                "lang": "grc",
-                "parent": "2",
-                "description": "----------------",
-                "depth": 2,
-                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/athous-iviron-450.xml",
-                "CitationTrees": [
-                    {
-                        "name": "default",
-                        "position": 0
-                    }
-                ],
-                "dublinCore": {}
-            }
-        ]
+        "children": {}
     }
 ]

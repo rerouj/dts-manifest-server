@@ -1,0 +1,124 @@
+[
+    {
+        "id": "1",
+        "type": "collection",
+        "title": "ENLAC - éditer numériquement la littérature apocryphe à l'Unil",
+        "lang": "grc",
+        "parent": null,
+        "children": [
+            {
+                "id": "2",
+                "type": "collection",
+                "title": "Le Martyre de Philippe - Acta Philippi",
+                "lang": "grc",
+                "parent": "1",
+                "children": [
+                    {
+                        "id": "athous-iviron-450",
+                        "type": "Resource",
+                        "title": "Le Martyre de Philippe - Athous Iviron 450",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/athous-iviron-450.xml",
+                        "CitationTrees": [
+                        {
+                            "name": "default",
+                            "position": 0
+                        }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "brescia-A-III-3-72",
+                        "type": "Resource",
+                        "title": "Le Martyre de Philippe - Brescia A III 3 72",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/brescia-A-III-3-72.xml",
+                        "CitationTrees": [
+                        {
+                            "name": "default",
+                            "position": 0
+                        }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "bonnet_er",
+                        "type": "Resource",
+                        "title": "Acta Philippi. Et Acta Thomae. Accedunt Acta Barnabae",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/bonnet_er.xml",
+                        "CitationTrees": [
+                        {
+                            "name": "default",
+                            "position": 0
+                        }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ebe_346",
+                        "type": "Resource",
+                        "title": "Acta Philippi. Et Acta Thomae. Accedunt Acta Barnabae - EBE 346",
+                        "lang": "grc",
+                        "parent": "1",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_346.xml",
+                        "CitationTrees": [
+                        {
+                            "name": "default",
+                            "position": 0
+                        }
+                        ],
+                        "dublinCore": {}
+                    }
+                ]
+            },
+            {
+                "id": "ab",
+                "type": "collection",
+                "title": "Acta barnabae",
+                "lang": "grc",
+                "parent": "1",
+                "children": [
+                    {}
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "type": "collection",
+        "title": "ENLAC-data",
+        "lang": "grc",
+        "parent": null,
+        "children": [
+            {
+                "id": "Acta Barnabae - Cambridge Add 4489",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Athous Iviron 450",
+                "lang": "grc",
+                "parent": "2",
+                "description": "----------------",
+                "depth": 2,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/athous-iviron-450.xml",
+                "CitationTrees": [
+                    {
+                        "name": "default",
+                        "position": 0
+                    }
+                ],
+                "dublinCore": {}
+            }
+        ]
+    }
+]

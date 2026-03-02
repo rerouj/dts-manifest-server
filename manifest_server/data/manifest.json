@@ -91,7 +91,7 @@
                 "parent": "1",
                 "children": [
                     {
-                        "id": "Acta Barnabae - Cambridge Add 4489",
+                        "id": "ab1",
                         "type": "Resource",
                         "title": "Les Actes de Barnabé - Cambridge Add 4489",
                         "lang": "grc",
@@ -108,7 +108,7 @@
                         "dublinCore": {}
                     },
                     {
-                        "id": "Acta Barnabae - Editio Recensio",
+                        "id": "ab2",
                         "type": "Resource",
                         "title": "Les Actes de Barnabé - Editio Recensio (Bonnet)",
                         "lang": "grc",
@@ -116,6 +116,227 @@
                         "description": "----------------",
                         "depth": 2,
                         "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Bonnet.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab3",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Koutloumousiou",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Koutloumousiou_2.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab5",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Magistes Laures gamma 87",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Megistes_Lauras_gamma87.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab6",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Messine ss 26",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://github.com/unilenlac/actes-barnabe/blob/main/grec/Messine_SS_26.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab7",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Messine ss 29",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Messine_SS_29.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab8",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Paperbroeck",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Paperbroeck.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab9",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Paris gr 1179A",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Parisinus_Graecus_1179A.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab10",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Paris gr 1219",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Parisinus_Graecus_1219.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab11",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Paris gr 1470",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Parisinus_Graecus_1470.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab12",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Philotheou 8",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Philotheou_8.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab13",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Tischendorf",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Tischendorf.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab14",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Vaticanus Graecus 1667",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Vaticanus_Graecus_1667.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab15",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Vaticanus Graecus 821",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Vaticanus_Graecus_821.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
+                        "id": "ab16",
+                        "type": "Resource",
+                        "title": "Les Actes de Barnabé - Vatopedi 84",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/actes-barnabe/refs/heads/main/grec/Vatopedi_84.xml",
                         "CitationTrees": [
                             {
                                 "name": "default",

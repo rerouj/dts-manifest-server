@@ -26,6 +26,10 @@
                             {
                                 "name": "default",
                                 "position": 0
+                            },
+                            {
+                                "name": "codex",
+                                "position": 1
                             }
                         ],
                         "dublinCore": {}

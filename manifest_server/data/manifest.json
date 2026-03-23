@@ -77,6 +77,27 @@
                         "dublinCore": {}
                     },
                     {
+                        "id": "ebe-1027",
+                        "type": "Resource",
+                        "title": "Le Martyre de Philippe - EBE 1027",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_1027.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            },
+                            {
+                                "name": "diplomatic",
+                                "position": 1
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
                         "id": "bonnet_er",
                         "type": "Resource",
                         "title": "Acta Philippi. Et Acta Thomae. Accedunt Acta Barnabae",

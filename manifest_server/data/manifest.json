@@ -35,6 +35,27 @@
                         "dublinCore": {}
                     },
                     {
+                        "id": "athous-iviron-476",
+                        "type": "Resource",
+                        "title": "Le Martyre de Philippe - Athous Iviron 476",
+                        "lang": "grc",
+                        "parent": "2",
+                        "description": "----------------",
+                        "depth": 2,
+                        "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/athous-iviron-476.xml",
+                        "CitationTrees": [
+                            {
+                                "name": "default",
+                                "position": 0
+                            },
+                            {
+                                "name": "codex",
+                                "position": 1
+                            }
+                        ],
+                        "dublinCore": {}
+                    },
+                    {
                         "id": "brescia-A-III-3-72",
                         "type": "Resource",
                         "title": "Le Martyre de Philippe - Brescia A III 3 72",

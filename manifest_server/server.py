@@ -3,6 +3,10 @@ from http.server import SimpleHTTPRequestHandler, HTTPServer
 import os
 PORT = 8005
 class ManifestHandler(SimpleHTTPRequestHandler):
+    def end_headers(self):
+        self.send_header('Access-Control-Allow-Origin', '*')
+        super().end_headers()
+
     def do_GET(self):
         if self.path == '/manifest.json':
             self.path = '/data/manifest.json'

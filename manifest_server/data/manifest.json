@@ -5710,6 +5710,69 @@
                   }
                 ],
                 "dublinCore": {}
+              },
+              {
+                "id": "lond-add-26114",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - London Add 26114",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/lond_add_26114.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "marc-gr-z-349",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Marc Gr Z 349",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/marc-gr-z-349.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "meteor-h-trin-116",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Meteor H Trin 116",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/meteor-h-trin-116.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
               }
             ]
           },

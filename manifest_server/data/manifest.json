@@ -5649,6 +5649,27 @@
             "parent": "s-bridge",
             "children": [
               {
+                "id": "bonnet-er",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Maximilien Bonnet (Editio Major)",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/bonnet_er.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
                 "id": "athous-iviron-450",
                 "type": "Resource",
                 "title": "Le Martyre de Philippe - Athous Iviron 450",
@@ -5678,27 +5699,6 @@
                 "description": "----------------",
                 "depth": 3,
                 "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/athous-iviron-476.xml",
-                "CitationTrees": [
-                  {
-                    "name": "default",
-                    "position": 0
-                  },
-                  {
-                    "name": "diplomatic",
-                    "position": 1
-                  }
-                ],
-                "dublinCore": {}
-              },
-              {
-                "id": "ebe-1027",
-                "type": "Resource",
-                "title": "Le Martyre de Philippe - EBE 1027",
-                "lang": "grc",
-                "parent": "sb-mp",
-                "description": "----------------",
-                "depth": 3,
-                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_1027.xml",
                 "CitationTrees": [
                   {
                     "name": "default",
@@ -5762,6 +5762,216 @@
                 "description": "----------------",
                 "depth": 3,
                 "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/meteor-h-trin-116.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "brescia-A-III-3-72",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Brescia A III 3 72",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/brescia-A-III-3-72.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "ebe-1027",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Ebe 1027",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_1027.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "ebe-2535",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Ebe 2535",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_2535.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "ebe-346",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Ebe 346",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_346.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "ebe-363",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Ebe 363",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_363.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "jerusalem-pb-pt-66",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Jerusalem PB PT 66",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/jerusalem-pb-pt-66.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "lond-add-26114",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Lond Add 26114",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/lond_add_26114.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "mich-ul-ann-arbor-36",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Mich UL Ann Arbor 36",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/mich_ul_ann_arbor_36.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "milan-ambros-f144",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Milan Ambros F144",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/milan-ambros-f144.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "monac-gr-524",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Monac GR 524",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/monac-gr-524.xml",
                 "CitationTrees": [
                   {
                     "name": "default",

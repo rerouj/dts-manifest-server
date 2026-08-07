@@ -5661,10 +5661,6 @@
                   {
                     "name": "default",
                     "position": 0
-                  },
-                  {
-                    "name": "diplomatic",
-                    "position": 1
                   }
                 ],
                 "dublinCore": {}

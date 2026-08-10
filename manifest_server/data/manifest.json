@@ -5834,27 +5834,6 @@
                 "dublinCore": {}
               },
               {
-                "id": "ebe-363",
-                "type": "Resource",
-                "title": "Le Martyre de Philippe - Ebe 363",
-                "lang": "grc",
-                "parent": "sb-mp",
-                "description": "----------------",
-                "depth": 3,
-                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_363.xml",
-                "CitationTrees": [
-                  {
-                    "name": "default",
-                    "position": 0
-                  },
-                  {
-                    "name": "diplomatic",
-                    "position": 1
-                  }
-                ],
-                "dublinCore": {}
-              },
-              {
                 "id": "jerusalem-pb-pt-66",
                 "type": "Resource",
                 "title": "Le Martyre de Philippe - Jerusalem PB PT 66",

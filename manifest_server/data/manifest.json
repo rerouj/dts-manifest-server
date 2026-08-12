@@ -5876,27 +5876,6 @@
                 "dublinCore": {}
               },
               {
-                "id": "mich-ul-ann-arbor-36",
-                "type": "Resource",
-                "title": "Le Martyre de Philippe - Mich UL Ann Arbor 36",
-                "lang": "grc",
-                "parent": "sb-mp",
-                "description": "----------------",
-                "depth": 3,
-                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/mich_ul_ann_arbor_36.xml",
-                "CitationTrees": [
-                  {
-                    "name": "default",
-                    "position": 0
-                  },
-                  {
-                    "name": "diplomatic",
-                    "position": 1
-                  }
-                ],
-                "dublinCore": {}
-              },
-              {
                 "id": "milan-ambros-f144",
                 "type": "Resource",
                 "title": "Le Martyre de Philippe - Milan Ambros F144",

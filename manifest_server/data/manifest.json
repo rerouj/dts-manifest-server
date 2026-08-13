@@ -5853,48 +5853,6 @@
                   }
                 ],
                 "dublinCore": {}
-              },
-              {
-                "id": "lond-add-26114",
-                "type": "Resource",
-                "title": "Le Martyre de Philippe - Lond Add 26114",
-                "lang": "grc",
-                "parent": "sb-mp",
-                "description": "----------------",
-                "depth": 3,
-                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/lond_add_26114.xml",
-                "CitationTrees": [
-                  {
-                    "name": "default",
-                    "position": 0
-                  },
-                  {
-                    "name": "diplomatic",
-                    "position": 1
-                  }
-                ],
-                "dublinCore": {}
-              },
-              {
-                "id": "monac-gr-524",
-                "type": "Resource",
-                "title": "Le Martyre de Philippe - Monac GR 524",
-                "lang": "grc",
-                "parent": "sb-mp",
-                "description": "----------------",
-                "depth": 3,
-                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/monac-gr-524.xml",
-                "CitationTrees": [
-                  {
-                    "name": "default",
-                    "position": 0
-                  },
-                  {
-                    "name": "diplomatic",
-                    "position": 1
-                  }
-                ],
-                "dublinCore": {}
               }
             ]
           },

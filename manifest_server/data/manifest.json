@@ -5876,27 +5876,6 @@
                 "dublinCore": {}
               },
               {
-                "id": "milan-ambros-f144",
-                "type": "Resource",
-                "title": "Le Martyre de Philippe - Milan Ambros F144",
-                "lang": "grc",
-                "parent": "sb-mp",
-                "description": "----------------",
-                "depth": 3,
-                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/milan-ambros-f144.xml",
-                "CitationTrees": [
-                  {
-                    "name": "default",
-                    "position": 0
-                  },
-                  {
-                    "name": "diplomatic",
-                    "position": 1
-                  }
-                ],
-                "dublinCore": {}
-              },
-              {
                 "id": "monac-gr-524",
                 "type": "Resource",
                 "title": "Le Martyre de Philippe - Monac GR 524",

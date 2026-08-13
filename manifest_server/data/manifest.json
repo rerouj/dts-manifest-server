@@ -5834,6 +5834,27 @@
                 "dublinCore": {}
               },
               {
+                "id": "ebe-363",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Ebe 363",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/ebe_363.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
                 "id": "jerusalem-pb-pt-66",
                 "type": "Resource",
                 "title": "Le Martyre de Philippe - Jerusalem PB PT 66",
@@ -5842,6 +5863,90 @@
                 "description": "----------------",
                 "depth": 3,
                 "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/jerusalem-pb-pt-66.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "lond-add-26114",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Lond Add 26114",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/lond_add_26114.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "mich-ul-ann-arbor-36",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Mich UL Ann Arbor 36",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/mich_ul_ann_arbor_36.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "milan-ambros-f144",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Milan Ambros F144",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/milan-ambros-f144.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
+              },
+              {
+                "id": "monac-gr-524",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Monac GR 524",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/monac-gr-524.xml",
                 "CitationTrees": [
                   {
                     "name": "default",

@@ -56,27 +56,6 @@
             "dublinCore": {}
           },
           {
-            "id": "brescia-A-III-3-72",
-            "type": "Resource",
-            "title": "Le Martyre de Philippe - Brescia A III 3 72",
-            "lang": "grc",
-            "parent": "2",
-            "description": "----------------",
-            "depth": 2,
-            "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/brescia-A-III-3-72.xml",
-            "CitationTrees": [
-              {
-                "name": "default",
-                "position": 0
-              },
-              {
-                "name": "diplomatic",
-                "position": 1
-              }
-            ],
-            "dublinCore": {}
-          },
-          {
             "id": "ebe-1027",
             "type": "Resource",
             "title": "Le Martyre de Philippe - EBE 1027",

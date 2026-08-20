@@ -5937,6 +5937,27 @@
                   }
                 ],
                 "dublinCore": {}
+              },
+              {
+                "id": "paris-gr-1219",
+                "type": "Resource",
+                "title": "Le Martyre de Philippe - Paris GR 1219",
+                "lang": "grc",
+                "parent": "sb-mp",
+                "description": "----------------",
+                "depth": 3,
+                "location": "https://raw.githubusercontent.com/unilenlac/martyre-philippe/refs/heads/main/transcriptions/paris_gr_1219.xml",
+                "CitationTrees": [
+                  {
+                    "name": "default",
+                    "position": 0
+                  },
+                  {
+                    "name": "diplomatic",
+                    "position": 1
+                  }
+                ],
+                "dublinCore": {}
               }
             ]
           },
